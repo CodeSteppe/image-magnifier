@@ -1,4 +1,5 @@
 new Magnifier({
-  targetElement: document.querySelector('.article'),
-  magnifierElement: document.querySelector('.magnifier')
+  targetElement: document.querySelector('.stars'),
+  magnifierElement: document.querySelector('.magnifier'),
+  scale: 2
 });
