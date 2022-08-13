@@ -1,5 +1,4 @@
 new Magnifier({
-  targetElement: document.querySelector('.stars'),
-  magnifierElement: document.querySelector('.magnifier'),
-  scale: 10
+  targetImg: document.querySelector('.stars'),
+  scale: 3
 });
